@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/newseoyun/nodejs-tutorial.git"
+    "url": "git+https://github.com/newseoyun/NODEJS-MYSQL.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/newseoyun/nodejs-tutorial/issues"
+    "url": "https://github.com/newseoyun/NODEJS-MYSQL/issues"
   },
-  "homepage": "https://github.com/newseoyun/nodejs-tutorial#readme",
+  "homepage": "https://github.com/newseoyun/NODEJS-MYSQL#readme",
   "dependencies": {
     "mysql": "^2.16.0",
     "sanitize-html": "^1.20.0"
