@@ -1,2 +1,2 @@
-# nodejs-tutorial
-## 생활코딩 Node.js 수업 연습
+# NODEJS-MYSQL
+## 생활코딩 수업 따라하기
